@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\bin\Debug\NumberSystemOperator.exe
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\bin\Debug\MultiFuctional Tools.exe
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\obj\Debug\NumberSystemOperator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\obj\Debug\NumberSystemOperator.Arithmetic.resources
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\obj\Debug\NumberSystemOperator.Complement.resources
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\obj\Debug\NumberSystemOperator.InterFace.resources
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\obj\Debug\NumberSystemOperator.NumberConverter.resources
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\obj\Debug\NumberSystemOperator.Properties.Resources.resources
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\obj\Debug\NumberSystemOperator.Shifts.resources
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\obj\Debug\NumberSystemOperator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\obj\Debug\NumberSystemOperator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\bin\Debug\Number System Tools.exe.config
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\bin\Debug\Number System Tools.exe
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\bin\Debug\Number System Tools.pdb
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\obj\Debug\Number System Tools.exe
+C:\Users\User\Desktop\C#\NumberSystemOperator\NumberSystemOperator\obj\Debug\Number System Tools.pdb
